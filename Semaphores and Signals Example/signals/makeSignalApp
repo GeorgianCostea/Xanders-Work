@@ -1,0 +1,23 @@
+#
+# this makefile will compile and and all source
+# found in the ~/develop/.../src directory and place the object files
+# into the ~/develop/.../obj directory.
+#
+# In addition, it uses an extra environment variable (set within the
+# makefile itself) to indicate where any extra include files can be found
+#
+# After all is compiled, the linker is invoked to create the final
+# executable (which will be stored in the ~/develop/.../bin directory
+# 
+# =======================================================
+#                  Client Example 1
+# =======================================================
+# FINAL BINARY Target
+./bin/appWithSignals : ./obj/signals-R-Us.o
+	cc ./obj/signals-R-Us.o -o ./bin/appWithSignals
+#
+# =======================================================
+#                     Dependencies
+# =======================================================                     
+./obj/signals-R-Us.o : ./src/signals-R-Us.c
+	cc -c ./src/signals-R-Us.c -o ./obj/signals-R-Us.o

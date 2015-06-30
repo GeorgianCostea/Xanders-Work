@@ -1,0 +1,23 @@
+#
+# this makefile will compile and and all source
+# found in the ~/develop/.../src directory and place the object files
+# into the ~/develop/.../obj directory.
+#
+# In addition, it uses an extra environment variable (set within the
+# makefile itself) to indicate where any extra include files can be found
+#
+# After all is compiled, the linker is invoked to create the final
+# executable (which will be stored in the ~/develop/.../bin directory
+# 
+# =======================================================
+#                  Shared Memory Example 1
+# =======================================================
+# FINAL BINARY Target
+./bin/semaphore2 : ./obj/semaphoreUser2.o
+	cc ./obj/semaphoreUser2.o -o ./bin/semaphore2
+#
+# =======================================================
+#                     Dependencies
+# =======================================================                     
+./obj/semaphoreUser2.o : ./src/semaphoreUser2.c ./inc/semaphoreStruct.h
+	cc -c ./src/semaphoreUser2.c -o ./obj/semaphoreUser2.o
