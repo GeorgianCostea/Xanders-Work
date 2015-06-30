@@ -1,0 +1,6 @@
+In order to make the program work you will need some sort of compiler ( popular one GCC  )
+or if you got visual studio just create a new project and add the file to the project.
+
+Thanks 
+
+- Georgian
