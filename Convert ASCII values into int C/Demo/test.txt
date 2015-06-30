@@ -1,0 +1,45 @@
+a
+how are you ??
+
+
+asdasd
+
+
+f
+ok have a good one
+asdsd
+OSF
+d
+C 
+Programing
+
+1111111111111222222222222
+
+s
+
+
+Notes:
+
+    The options can be in any order and might or might not be present.
+    Each option must have its own "-" preceding it (e.g. it is not permissible to have -sw).
+    There might or might not be a space between the -w and the specified width.
+    A '\n' character is actually a carriage return character (ASCII value 0x0d) followed by a line feed character (ASCII value 0x0a).
+    Files do not necessarily end with a '\n'.
+        The reason for this is that some editing programs put the '\n' at the end and some do not
+    If width is anything other than a positive integer less than 65535, display a usage error message.
+    You will likely get a better mark if you use Baby Steps to design this program.
+    This is NOT a group project. It must be done individually.
+
+Errors:
+
+    Displays a "File not openable" error message and terminates without any other further output if any of the files cannot be opened.
+        If this happens on a second or subsequent file, it is OK to process the previous files that can be opened.
+    Displays a "Usage: wrapfile [-s] [-w width] file ..." error message and terminates if the command line options are incorrect.
+        Your error message must look exactly as stated above.
+    Displays an appropriate error message and terminates without any other further output if there is a error with reading or closing any of the files.
+
+Exit Status:
+0 	successful
+1 	can't open file
+2 	command line options incorrect
+3 	any other fatal errors

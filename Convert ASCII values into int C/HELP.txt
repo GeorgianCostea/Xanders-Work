@@ -1,0 +1,3 @@
+In order to run the Demo you need to open a cmd and run the Convert.exe from there
+
+Eg  Convert.ext test.txt would be the command.
