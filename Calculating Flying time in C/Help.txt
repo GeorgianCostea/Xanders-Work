@@ -1,0 +1,5 @@
+In order to run the demo just click on the "Flying Simulator.exe" .
+
+NOTE**
+
+Please keep all the files together in DEMO folder.
