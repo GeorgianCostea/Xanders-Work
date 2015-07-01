@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<!--
+* Date : 21/09/2012
+* Programmer: Alex Costea
+* Description: Demostrating a simple Hi-Lo game ,where the player guesses values
+* in a specific range until the correct number is found.
+*
+-->
+<head>
+    <title>To the MAX</title>
+    
+
+
+ <script type="text/javascript">
+
+     var count = 0;
+     var minNumber = 1;
+     var flag = 0;
+     var maxNumber = 0;
+
+     function checkGuess(randomvalue, number) {
+
+         
+         var numberInserted = document.getElementById("guess").value;
+
+         if (flag == 0) {
+
+            maxNumber = number;
+        }
+
+
+ 
+
+
+            if (randomvalue == numberInserted) {
+
+                document.getElementById("tryIt").innerHTML = "<p>You got it</p>";
+                changeBackground();
+
+                window.alert("Congratulations !!! You win ");
+
+            }
+            else if ((numberInserted > randomvalue) && (numberInserted <= maxNumber)) {
+                /*setting the range to the number that was inserted if the number is greater then 
+                the random value*/
+                maxNumber = numberInserted;
+                document.getElementById("tryIt").innerHTML = "<p>Your number is to high. Please Try again.</p>";
+
+
+            }
+            else if ((numberInserted < randomvalue) && (numberInserted >= minNumber)) {
+                /* setting the range on the number that was inserted if the number is less then the
+                random value.*/
+                minNumber = numberInserted;
+                document.getElementById("tryIt").innerHTML = "<p>Your number is to low. Please Try again.</p>";
+
+            }
+            else {
+                document.getElementById("tryIt").innerHTML = "<p>Wrong input please insert a valid  number.</p>";
+            }
+
+
+            document.getElementById("range").innerHTML = "range between " + minNumber + " and " + maxNumber;
+            count++;
+            if (count == 1) {
+
+                document.getElementById("goodLuck").innerHTML = " Your tried to guess " + count + " time";
+                flag++;
+            }
+            else {
+
+                document.getElementById("goodLuck").innerHTML = " Your tried to guess " + count + " times";
+            }
+         
+     }
+
+</script>
+
+<script type="text/javascript">
+
+    /* changing the background to aqua*/
+    function changeBackground() {
+        document.bgColor = "Aqua"
+    }
+</script>
+
+<script type="text/javascript">
+    
+    /*the function that randomize the number .*/
+    function randomize(number) {
+        return Math.floor((number - 1) * Math.random() + 1);
+    }
+</script>
+
+</head >
+<body >
+
+<script type="text/javascript">
+
+        while (1) {
+            var name = prompt("Please enter your Name");
+
+            if (isNaN(name)) {
+                break;
+            }
+            else {
+                alert("Its not a name");
+            }
+        }
+        while (1) {
+
+            var number = prompt("Enter the number");
+
+            if (!isNaN(number)) {
+                var randomvalue = randomize(number);
+                
+                var startPoint = 1;
+               
+                break;
+            }
+            else {
+                alert("Its not a number");
+            }
+        }
+        
+</script>
+
+
+
+<h1> HI-LO Game</h1>
+<br />
+<p  id="range"></p>
+Enter Guess: <input type="text" id="guess" /><br />
+<br />
+<button type="button"  onclick="checkGuess(randomvalue,number)">Check</button>
+<p id="tryIt">Take your best Guess!!!!</p>
+<p id="goodLuck">Good luck</p>
+
+</body>
+</html>
