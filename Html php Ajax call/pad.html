@@ -1,0 +1,252 @@
+﻿<!--
+ FileName    : pad.html
+ Project     : Simple Text editor
+ Date        : 25/04/2013
+ Programmer  : Georgian Costea
+ Description :The following program demonstrates the use of ajax 
+ within a simple text editor which is able to open , save and save as 
+ files on a folder.
+
+ -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Assignment 5</title>
+<style>
+body
+{
+background-color:silver;	
+
+}
+
+.Border
+{
+border-style:dashed;
+border-width:2px;
+position: fixed;
+top: 25%;
+left: 25%;
+margin-top: -50px;
+margin-left: -100px;
+padding: 6px; 
+padding-bottom:10px; 
+padding-left: 10px; 
+	
+}
+
+</style>
+
+<script type="text/javascript">
+
+
+/**
+*Function Name : openFile(response)
+*Parameters    : response
+*Return val    : none
+*Description   : Inserts text into the textare , the
+*which is what ever the server read from the file that the user
+*is using.
+*/
+function openFile(response)
+{
+    document.getElementById("InputText").value = response;
+}
+
+
+/*
+*Function Name : getFileName
+*Parameters    : selectObj
+*Return val    : none
+*Description   : Gets the current file that the user
+*selected from the select input.
+*/
+function getFileName(selectObj)
+{
+	var idx =selectObj.selectedIndex;
+	
+	if(idx < 0)
+	{
+		return "newFile.txt";
+	}
+	else
+	{
+		var whichFile = selectObj.options[idx].text;
+		return whichFile;
+		
+	}
+}
+
+
+
+/*
+*Function name : parseRespose
+*Parameters    : response
+*Return val    : false
+*Description   : this function parses the response that the
+* server send , in order to figure out what command it has to execute.
+*
+*/
+function parseResponse(response)
+{
+
+	var responseBack = response.split('&');
+
+	
+	if(responseBack[0] == "open")
+	{
+		openFile(responseBack[1]);
+	}
+	else if(responseBack[0] == "save")
+	{
+		alert("Your file was saved");
+		parseArray(responseBack[1]);
+	}
+	else if(responseBack[0] == "saveas")
+	{
+		alert(" Your file was saved");
+		parseArray(responseBack[1]);
+	}
+	else if(responseBack[0] =="delete")
+	{
+		alert("Your file has been deleted");
+		parseArray(responseBack[1]);
+	}
+	else
+	{
+		alert(response);
+		return;
+	}
+}
+
+
+/*
+*Function Name : SendMessageAndReceive
+*Parameters    : sendOption , File
+*Return val    : none
+*Description   : Sends and receive message from server.
+*/
+function SendMessageAndReceive(sendOption , File)
+{
+
+var xmlhttp;
+
+	if (window.XMLHttpRequest)
+	{// code for IE7+, Firefox, Chrome, Opera, Safari
+	xmlhttp=new XMLHttpRequest();
+	}
+	else
+    {// code for IE6, IE5
+    	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    
+	xmlhttp.onreadystatechange=function()
+  	{
+	    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+	    {
+	 	 	//send the response to be parsed.
+	 		 parseResponse(xmlhttp.responseText);
+	    }
+	 }
+  	
+	var str;
+ 	
+	if(sendOption == 'o')
+	{
+		
+		var whichFile = getFileName(File);
+		document.getElementById("curFile").innerHTML =whichFile;
+		document.getElementById("FName").value = whichFile;
+		str = "open!" + whichFile +"!";
+		
+	}
+	else if( sendOption == 's')
+	{
+		
+		var fileName = document.getElementById("FName").value;
+		var fileContent = document.getElementById("InputText").value;
+	  	str ="save!" + fileName +"!" +fileContent;
+	}
+	else if( sendOption == 'a')
+	{
+	
+	  var newFileName = prompt("Please enter new file Name");
+	  var fileContent = document.getElementById("InputText").value;
+	  str ="saveas!" + newFileName +"!" +fileContent;
+	}
+  
+	xmlhttp.open("GET","pad.php?q=" +str,true);
+	xmlhttp.send();
+}
+
+
+
+/*
+*Function Name : addOption
+*Parameters    : selectbox,text,value,id 
+*return val    : none
+*Description   : add a new option field to the select box dynamicaly.
+*/
+function addOption(selectbox,text,value,id )
+{
+	var optn = document.createElement("OPTION");
+	optn.text = text;
+	optn.id =id;
+	optn.value = value;
+	selectbox.options.add(optn);
+}
+
+
+/*
+*Function Name : parseArray
+*Paramemters   : node
+*Return val    : none
+*Description   : cleans the select box in order to add the new options
+* that was send by the server.
+*/
+function parseArray(node)
+{
+
+	
+    var list = document.getElementById("FileFolder");
+	var rawArray = node;
+	var fileArray = rawArray.split('%');
+	
+	
+	for (var count = list.options.length-1; count >-1; count--)
+	{
+		list.options[count] = null;
+	}
+
+	for (var count = 0; count < fileArray.length; count++)
+	{
+		addOption(list,fileArray[count],fileArray[count],count);
+    }
+
+}
+
+
+
+
+</script>
+</head>
+
+<body style="margin-bottom: 242px">
+<form action="">
+<div class="Border" >
+
+	<h1><label>Text Editor</label></h1><br> 
+		<input type="button" value="Open" onclick="SendMessageAndReceive('o',FileFolder)" />
+		<input type="button" id="Save" value="Save" onclick="SendMessageAndReceive('s')"/>
+		<input type="button" id="SaveAs" value="Save As" onclick="SendMessageAndReceive('a')" />
+		<label id="FileName">Current File: </label><b id="curFile">N/A</b>
+		<span id="FName" value="" /><br>
+		<select id="FileFolder" name="FileFolder" style="width: 177px" size="15" >
+		
+		</select>
+		<textarea id ="InputText" style="width: 412px; height: 239px"rows="1" class="auto-style2"></textarea>
+</div>		
+</form>
+</body>
+
+</html>
