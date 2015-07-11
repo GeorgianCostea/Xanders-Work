@@ -1,0 +1,61 @@
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\MadProject.exe.config
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\MadProject.exe
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\MadProject.pdb
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Controls.dll
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.dll
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Imaging.dll
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Math.dll
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Video.dll
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Vision.dll
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\zxing.dll
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\zxing.pdb
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.xml
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Controls.xml
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Imaging.xml
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Math.xml
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Video.xml
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\bin\Release\AForge.Vision.xml
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MadProject.csprojResolveAssemblyReference.cache
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MainWindow.baml
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MainWindow.g.cs
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\App.g.cs
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MadProject_MarkupCompile.cache
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MadProject.g.resources
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MadProject.Properties.Resources.resources
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MadProject.csproj.GenerateResource.Cache
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MadProject.exe
+C:\Users\Alex Costea\Dropbox\HSMS\MAD\MadProject\MadProject\obj\Release\MadProject.pdb
+C:\Users\Alex Costea\Desktop\MAD\MadProject\MadProject\bin\Release\MadProject.exe.config
+C:\Users\Alex Costea\Desktop\MAD\MadProject\MadProject\obj\Release\MadProject.exe
+C:\Users\Alex Costea\Desktop\MAD\MadProject\MadProject\obj\Release\MadProject.pdb
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\MadProject.exe.config
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\MadProject.exe
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\MadProject.pdb
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Controls.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Imaging.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Math.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Video.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Vision.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\zxing.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\zxing.pdb
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.xml
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Controls.xml
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Imaging.xml
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Math.xml
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Video.xml
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\bin\Release\AForge.Vision.xml
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MadProject.csprojResolveAssemblyReference.cache
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MainWindow.baml
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MainWindow.g.cs
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\App.g.cs
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MadProject_MarkupCompile.cache
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MadProject.g.resources
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MadProject.Properties.Resources.resources
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MadProject.csproj.GenerateResource.Cache
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MadProject.exe
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\MadProject\obj\Release\MadProject.pdb

@@ -1,0 +1,19 @@
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Release\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Release\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\obj\Release\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\obj\Release\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\codeplex\WindowsQR\ZXing\zxing.pdb
+C:\Users\Alex Costea\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\obj\Release\zxing.dll
+C:\Users\Alex Costea\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\obj\Release\zxing.pdb
+C:\Users\Alex Costea\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\zxing.dll
+C:\Users\Alex Costea\Desktop\windowqr-c5af0bb2fbba\windowqr_c5af0bb2fbba\ZXing\zxing.pdb
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\ZXing\obj\Release\zxing.csprojResolveAssemblyReference.cache
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\ZXing\obj\Release\zxing.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\ZXing\obj\Release\zxing.pdb
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\ZXing\zxing.dll
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 4\MAD\MAD\MadProject\ZXing\zxing.pdb

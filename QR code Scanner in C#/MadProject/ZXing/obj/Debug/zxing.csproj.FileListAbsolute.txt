@@ -1,0 +1,14 @@
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\obj\Debug\zxing.dll
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\obj\Debug\zxing.pdb
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\zxing.dll
+C:\Users\cpsaez\Desktop\My Dropbox\Projects\QR Payments\QRWindowsClient\ZXing\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Debug\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\obj\Debug\zxing.pdb
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\zxing.dll
+C:\Users\cpsaez\Desktop\TfsPreview\CreatingStores\QRWindowsClient\ZXing\zxing.pdb
+C:\Users\Alex Costea\Desktop\MadProject\ZXing\obj\Debug\zxing.dll
+C:\Users\Alex Costea\Desktop\MadProject\ZXing\obj\Debug\zxing.pdb
+C:\Users\Alex Costea\Desktop\MadProject\ZXing\zxing.dll
+C:\Users\Alex Costea\Desktop\MadProject\ZXing\zxing.pdb

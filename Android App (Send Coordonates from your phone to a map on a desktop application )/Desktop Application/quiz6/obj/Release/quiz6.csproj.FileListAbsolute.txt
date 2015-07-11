@@ -1,0 +1,13 @@
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\bin\Release\quiz6.exe.config
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\bin\Release\quiz6.exe
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\bin\Release\quiz6.pdb
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\bin\Release\GMap.NET.Core.dll
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\bin\Release\GMap.NET.Core.xml
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\bin\Release\GMap.NET.WindowsForms.xml
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\obj\Release\quiz6.csprojResolveAssemblyReference.cache
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\obj\Release\quiz6.Form1.resources
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\obj\Release\quiz6.Properties.Resources.resources
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\obj\Release\quiz6.csproj.GenerateResource.Cache
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\obj\Release\quiz6.exe
+C:\Users\Alex Costea\Desktop\quiz6\quiz6\obj\Release\quiz6.pdb

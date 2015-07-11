@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TheRoster</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">The Roster</string>
+    <string name="Name">Name</string>
+    <string name="XS">XS</string>
+    <string name="S">S</string>
+    <string name="M">M</string>
+    <string name="L">L</string>
+    <string name="XL">XL</string>
+    <string name="XXL">XXL</string>
+    <string name="ShirtSize">Shirt Size</string>
+    <string name="PantsSize">Pant Size</string>
+    <string name="Shirt_Size">Shirt Size</string>
+    <string name="ShoeSize">Shoe Size</string>
+	<string name="ThingsThatWork">Thinks We Are Going Steady</string>
+	<string name="ButtonName">Update Information</string>
+	<string name="BirthDay">Birthday</string>
+	<string name="EyeColor">Eye Color</string>
+	<string name="selectdate">Pick Date</string>
+	
+	<string-array name="EyeColors">
+	    <item>Amber</item>
+	    <item>Blue</item>
+	    <item>Brown</item>
+	    <item>Gray</item>
+	    <item>Green</item>
+	    <item>Hazel</item>
+	</string-array>
+</resources>

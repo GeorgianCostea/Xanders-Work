@@ -1,0 +1,24 @@
+﻿<Window x:Class="MadProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="437.313" Width="770.149" Unloaded="Window_Unloaded" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="89*"/>
+            <ColumnDefinition Width="207*"/>
+        </Grid.ColumnDefinitions>
+        <Image Height="185" HorizontalAlignment="Left" Margin="18,97,0,0" Name="pictureBoxMain" Stretch="Fill" VerticalAlignment="Top" Width="211" Grid.ColumnSpan="2" />
+        <ListBox Height="49" HorizontalAlignment="Left" Margin="12,42,0,0" Name="lstDevices" VerticalAlignment="Top" Width="211" SelectionChanged="lstDevices_SelectionChanged" Grid.ColumnSpan="2">
+        </ListBox>
+        <Label Content="Select a camera" Height="28" HorizontalAlignment="Left" Margin="12,17,0,0" Name="label1" VerticalAlignment="Top" />
+        <GroupBox Header="info" Height="251" HorizontalAlignment="Left" Margin="50.91,31,0,0" Name="groupBox1" VerticalAlignment="Top" Width="337" Grid.Column="1">
+            <StackPanel>
+                <WrapPanel>
+                    <Label Content="Code" Height="28" Name="label2" />
+                    <TextBox Height="28" Name="txtCode" Width="281" />
+                </WrapPanel>
+                <WrapPanel></WrapPanel>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>
