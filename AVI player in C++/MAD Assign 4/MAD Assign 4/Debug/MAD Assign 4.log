@@ -1,0 +1,22 @@
+﻿Build started 8/29/2013 11:30:57 PM.
+     1>Project "C:\Users\AlexCostea\Dropbox\school\School\School work\Term 4\MAD\Assignment 4\Georgian Costea MAD Assignment 4\MAD Assign 4\MAD Assign 4\MAD Assign 4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MAD Assign 4.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MAD Assign 4.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "MAD Assign 4.cpp" "MAD Assign 4Dlg.cpp"
+         MAD Assign 4Dlg.cpp
+         MAD Assign 4.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\MAD Assign 4.res" "MAD Assign 4.rc" 
+       Link:
+         C:\Program Files (x86)\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AlexCostea\Dropbox\school\School\School work\Term 4\MAD\Assignment 4\Georgian Costea MAD Assignment 4\MAD Assign 4\Debug\MAD Assign 4.exe" /INCREMENTAL /NOLOGO /LIBPATH:Vfw32.lib VFW32.lib winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\visual studio\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\AlexCostea\Dropbox\school\School\School work\Term 4\MAD\Assignment 4\Georgian Costea MAD Assignment 4\MAD Assign 4\Debug\MAD Assign 4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AlexCostea\Dropbox\school\School\School work\Term 4\MAD\Assignment 4\Georgian Costea MAD Assignment 4\MAD Assign 4\Debug\MAD Assign 4.lib" /MACHINE:X86 "Debug\MAD Assign 4.res"
+         "Debug\MAD Assign 4.obj"
+         "Debug\MAD Assign 4Dlg.obj"
+         Debug\stdafx.obj
+         MAD Assign 4.vcxproj -> C:\Users\AlexCostea\Dropbox\school\School\School work\Term 4\MAD\Assignment 4\Georgian Costea MAD Assignment 4\MAD Assign 4\Debug\MAD Assign 4.exe
+     1>Done Building Project "C:\Users\AlexCostea\Dropbox\school\School\School work\Term 4\MAD\Assignment 4\Georgian Costea MAD Assignment 4\MAD Assign 4\MAD Assign 4\MAD Assign 4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:31.44
