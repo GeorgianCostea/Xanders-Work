@@ -1,0 +1,14 @@
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\bin\Release\Web Server.exe.manifest
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\bin\Release\Web Server.application
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\bin\Release\Web Server.exe
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\bin\Release\Web Server.pdb
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\bin\Release\SspDLL.dll
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\bin\Release\SspDLL.pdb
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Release\Web Server.csprojResolveAssemblyReference.cache
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Release\Web_Server.ProjectInstaller.resources
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Release\Web_Server.WebServer.resources
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Release\Web Server.csproj.GenerateResource.Cache
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Release\Web Server.exe.manifest
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Release\Web Server.application
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Release\Web Server.exe
+C:\Users\Alex Costea\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Release\Web Server.pdb

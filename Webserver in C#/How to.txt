@@ -1,0 +1,8 @@
+The following code is a custom webserver created just because i wanted to have a better undestading of the HTTP protocol 
+
+The web server will be able to display *.jpg *.png  parse HTML & PHP code and also parse a special format file *.ssp which includes html code and basic arithmetic.
+
+
+the webserver needs to be installed on the computer as a service. ( check out webserverSetup folder) 
+
+Once the service is installed just execute the webServer.exe and point to the correct folder.

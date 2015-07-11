@@ -1,0 +1,17 @@
+C:\Users\Alex Costea\Desktop\project\Web Server Project\Web Server\Web Server\bin\Debug\Web Server.exe
+C:\Users\Alex Costea\Desktop\project\Web Server Project\Web Server\Web Server\bin\Debug\Web Server.pdb
+C:\Users\Alex Costea\Desktop\project\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web_Server.ProjectInstaller.resources
+C:\Users\Alex Costea\Desktop\project\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web Server.csproj.GenerateResource.Cache
+C:\Users\Alex Costea\Desktop\project\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web Server.exe
+C:\Users\Alex Costea\Desktop\project\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web Server.pdb
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web Server.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web_Server.ProjectInstaller.resources
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web_Server.WebServer.resources
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web Server.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\bin\Debug\Web Server.exe.config
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\bin\Debug\Web Server.exe
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\bin\Debug\Web Server.pdb
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\bin\Debug\SspDLL.dll
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\bin\Debug\SspDLL.pdb
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web Server.exe
+C:\Users\HP\Desktop\Web Server Project\Web Server\Web Server\obj\x86\Debug\Web Server.pdb
