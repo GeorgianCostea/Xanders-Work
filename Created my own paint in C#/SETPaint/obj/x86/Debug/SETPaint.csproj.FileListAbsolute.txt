@@ -1,0 +1,39 @@
+C:\Users\Alex Costea\Desktop\project for real\SETPaint\SETPaint\obj\x86\Debug\SETPaint.frmPaint.resources
+C:\Users\Alex Costea\Desktop\project for real\SETPaint\SETPaint\obj\x86\Debug\SETPaint.Properties.Resources.resources
+C:\Users\Alex Costea\Desktop\project for real\SETPaint\SETPaint\obj\x86\Debug\SETPaint.csproj.GenerateResource.Cache
+C:\Users\Alex Costea\Desktop\project for real\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\Alex Costea\Desktop\project for real\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\Alex Costea\Desktop\project for real\SETPaint\SETPaint\obj\x86\Debug\SETPaint.exe
+C:\Users\Alex Costea\Desktop\project for real\SETPaint\SETPaint\obj\x86\Debug\SETPaint.pdb
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\SETPaint.Properties.Resources.resources
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\SETPaint.exe
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\SETPaint.pdb
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\SETPaint.frmSETPaint.resources
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\SETPaint.Resources.resources
+C:\Users\Brad\Documents\Visual Studio 2010\Projects\SETPaint\SETPaint\obj\x86\Debug\SETPaint.frmAbout.resources
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\obj\x86\Debug\SETPaint.exe
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\obj\x86\Debug\SETPaint.pdb
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\obj\x86\Debug\SETPaint.frmAbout.resources
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\obj\x86\Debug\SETPaint.frmSETPaint.resources
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\obj\x86\Debug\SETPaint.Properties.Resources.resources
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\obj\x86\Debug\SETPaint.Resources.resources
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\obj\x86\Debug\SETPaint.csproj.GenerateResource.Cache
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\Alex Costea\Dropbox\Partner Assignments\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\obj\x86\Debug\SETPaint.csprojResolveAssemblyReference.cache
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\obj\x86\Debug\SETPaint.frmAbout.resources
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\obj\x86\Debug\SETPaint.frmSETPaint.resources
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\obj\x86\Debug\SETPaint.Properties.Resources.resources
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\obj\x86\Debug\SETPaint.Resources.resources
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\obj\x86\Debug\SETPaint.csproj.GenerateResource.Cache
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\obj\x86\Debug\SETPaint.exe
+C:\Users\Alex Costea\Desktop\SETPaint\SETPaint\obj\x86\Debug\SETPaint.pdb
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 3\Windows & Mobile Programming\Assignment 3\SETPaint\SETPaint\obj\x86\Debug\SETPaint.exe
+C:\Users\Alex Costea\Dropbox\school\School\School work\Term 3\Windows & Mobile Programming\Assignment 3\SETPaint\SETPaint\obj\x86\Debug\SETPaint.pdb
