@@ -7,3 +7,11 @@
 .menuOff {
 	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 12px; BACKGROUND: #cccccc; PADDING-BOTTOM: 3px; BORDER-LEFT: #cccccc 1px solid; WIDTH: 200px; CURSOR: hand; PADDING-TOP: 3px; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: monospace
 }
+
+.timerCss{
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 12px; BACKGROUND: #cccccc; PADDING-BOTTOM: 3px; WIDTH: 200px; PADDING-TOP: 3px; FONT-FAMILY: monospace; HEIGHT: 240px
+}
+
+.boardCss{
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 12px; BACKGROUND: #cccccc; PADDING-BOTTOM: 3px; WIDTH: 475px; PADDING-TOP: 3px; FONT-FAMILY: monospace; HEIGHT: 240px
+}
