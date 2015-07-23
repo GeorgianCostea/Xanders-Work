@@ -1,0 +1,10 @@
+X:\OneDrive\Projects\Visual Studio Projects\Visual Studio 2010\Projects\MyWcfRestService\MyWcfRestService\bin\MyWcfRestService.dll
+X:\OneDrive\Projects\Visual Studio Projects\Visual Studio 2010\Projects\MyWcfRestService\MyWcfRestService\bin\MyWcfRestService.pdb
+X:\OneDrive\Projects\Visual Studio Projects\Visual Studio 2010\Projects\MyWcfRestService\MyWcfRestService\obj\Debug\MyWcfRestService.dll
+X:\OneDrive\Projects\Visual Studio Projects\Visual Studio 2010\Projects\MyWcfRestService\MyWcfRestService\obj\Debug\MyWcfRestService.pdb
+C:\Users\Alex Costea\Downloads\MyWcfRestService_All\MyWcfRestService\bin\MyWcfRestService.dll.config
+C:\Users\Alex Costea\Downloads\MyWcfRestService_All\MyWcfRestService\bin\MyWcfRestService.dll
+C:\Users\Alex Costea\Downloads\MyWcfRestService_All\MyWcfRestService\bin\MyWcfRestService.pdb
+C:\Users\Alex Costea\Downloads\MyWcfRestService_All\MyWcfRestService\obj\Debug\MyWcfRestService.csprojResolveAssemblyReference.cache
+C:\Users\Alex Costea\Downloads\MyWcfRestService_All\MyWcfRestService\obj\Debug\MyWcfRestService.dll
+C:\Users\Alex Costea\Downloads\MyWcfRestService_All\MyWcfRestService\obj\Debug\MyWcfRestService.pdb

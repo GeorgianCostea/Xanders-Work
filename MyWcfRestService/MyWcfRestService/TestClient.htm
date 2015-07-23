@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scripts/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var AllPeople;
+        function GetNames() {
+            $.getJSON("http://localhost:15849/RestServ.svc/json/names")
+            .done(function (data) {
+                // On success, ‘data’ contains a list of names.
+                AllPeople = data;
+
+                for (var i = 0; i < AllPeople.length; i++) {
+
+                };
+            });
+        }
+
+        function GetNamesByLastName(lastName) {
+
+            $.getJSON("http://localhost:15849/RestServ.svc/json/names?lastname=" + lastName)
+            .done(function (data) {
+                // On success, ‘data’ contains a list of names.
+                AllPeople = data;
+
+                for (var i = 0; i < AllPeople.length; i++) {
+
+                };
+            });
+        }
+
+        function SaveNames() {
+            var names = new Array();
+            names[0] = "Alex";
+            names[1] = "Costea";
+            $.ajax({
+                url: "http://localhost:15849/RestServ.svc/json/save",
+                type: 'POST',
+                dataType: 'json',
+                data: JSON.stringify(names),
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+
+                    alert('Data Succesfully saved in DB');
+                },
+                error: function () {
+                    alert('Data could not be saved in DB. Please Try again.');
+
+                }
+            });
+        }
+
+        function UploadFile() {
+            // grab your file object from a file input
+
+            fileData = document.getElementById("fileUpload").files[0];
+            var data = new FormData();
+
+            $.ajax({
+                url: 'http://localhost:15849/FileUploadServ.svc/UploadFile?fileName=' + fileData.name,
+                type: 'POST',
+                data: fileData,
+                cache: false,
+                dataType: 'json',
+                processData: false, // Don't process the files
+                contentType: "application/octet-stream", // Set content type to false as jQuery will tell the server its a query string request
+                success: function (data) {
+                    alert('successful..');
+                },
+                error: function (data) {
+                    alert('Some error Occurred!');
+                }
+            });
+
+        }
+
+        function DownloadFile() {
+
+            window.location("http://localhost:15849/FileUploadServ.svc/File/Custom/xls");
+
+        }
+
+      
+    </script>
+
+
+</head>
+<body>
+    <h3 style="text-align:center">Uploading/Downloading a file using WCF REST service in .NET 3.5</h3>
+    
+        <div style="margin: 0 auto; display:table">
+            <input type="file" id="fileUpload" value="" />
+            <br />
+            <br />
+            <button id="btnUpload" onclick="UploadFile()">
+                Upload
+            </button>
+            <button id="btnDownload" onclick="DownloadFile()">
+                Download
+            </button>
+        </div>
+       <br/>
+
+    <div style ="margin: 0 auto; display:table">
+
+        <button id="btnGetAll" onclick="GetNames()">
+            Get All Names
+        </button>
+        <button id="BtnGetByLastName" onclick="GetNamesByLastName('prasad')">
+            Get Filtered
+        </button>
+        <button id="BtnSave" onclick="SaveNames()">
+            Save Names
+        </button>
+    </div>
+</body>
+</html>
